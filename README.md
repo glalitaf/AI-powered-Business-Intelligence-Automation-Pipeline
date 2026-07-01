@@ -1,4 +1,4 @@
-# KPI Automation Pipeline
+# AI-powered-Business-Intelligence-Automation-Pipeline
 
 ## Executive Summary
 This project is an end-to-end automation pipeline designed to transform fragmented KPI data into reliable, decision-ready reporting for business operations teams. It extracts data from Metabase, applies business rules and transformations, writes structured outputs to Google Sheets, and supports monthly performance reviews with comparison and summary layers.
@@ -66,8 +66,3 @@ This project shows practical engineering skills in:
 ## Summary
 This is not just a data script collection—it is a business-focused automation solution that improves how KPI performance is captured, reviewed, and communicated. It demonstrates both technical execution and an understanding of operational needs, which is valuable for a hiring manager evaluating impact-driven engineering work.
 
-## Future Enhancements
-- Add automated scheduler support.
-- Improve alerting and exception handling.
-- Expand AI-assisted insights for leadership summaries.
-- Add monitoring and audit logs for production reliability.
